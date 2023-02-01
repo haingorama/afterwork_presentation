@@ -735,8 +735,10 @@ p:nth-child(8) {
 }
 .school p {
   margin: 20px 0;
+  color: black
 }
 .school h4 {
+  color: black;
   margin: 
   20px 0;
 }
